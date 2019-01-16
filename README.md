@@ -8,4 +8,4 @@ For executing the solution you can open the Java file in eclipse and run it as a
 
 The test.tmp contains a string in a file for executing the scenario - reading the string from file and printing the sum of digits (location of this file has to be given while executing /you can place it on desktop )
 
-A short video of my execution :
+A short video of my execution : https://youtu.be/xnuV891nDOs
